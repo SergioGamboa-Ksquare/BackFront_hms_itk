@@ -81,6 +81,15 @@ const Index = () => {
                           contact
                         </NavLink>
                       </li>
+                      <li>
+                        <NavLink
+                          activeClassName="is-Active"
+                          exact
+                          to="/admin-login"
+                        >
+                          Admin
+                        </NavLink>
+                      </li>
                       {token ? (
                         <li>
                           <NavLink
