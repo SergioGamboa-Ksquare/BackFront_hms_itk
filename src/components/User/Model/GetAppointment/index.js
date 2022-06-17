@@ -1,3 +1,4 @@
+//Here you get a new appointments
 import React, { useState, useEffect } from 'react'
 import './style.scss'
 import axios from 'axios'
