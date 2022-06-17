@@ -7,7 +7,7 @@ import LoginIndex from "./pages/Auth/Login/index";
 import AboutIndex from "./pages/About/index";
 
 
-@@ -11,6 +11,7 @@ const App = () => {
+const App = () => {
       <Router>
           <div className='App'>
           |<Route exact path="/" component={AboutIndex} />
