@@ -14,7 +14,7 @@ npm install
 ### Step 4
 To run the code, write the following command
 ```js
-npm run //The app will be run in PORT 8000
+npm run //The app will be run in PORT 3000
 ```
 To test the code, write the following command
 ```js
