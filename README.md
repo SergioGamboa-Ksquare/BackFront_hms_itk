@@ -22,4 +22,5 @@ npm test
 ```
 If it is necessary you have to download or update new packages
 ### You are ready to check and test the backend-frontend part
+If you have troubles to log in, you can write the next path in your browser: localhost:3000/login
 
