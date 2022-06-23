@@ -18,7 +18,7 @@ npm run //The app will be run in PORT 8000
 ```
 To test the code, write the following command
 ```js
-npm test //The app will be run in PORT 8000
+npm test 
 ```
 If it is necessary you have to download or update new packages
 ### You are ready to check and test the backend-frontend part
